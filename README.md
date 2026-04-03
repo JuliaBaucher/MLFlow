@@ -10,7 +10,17 @@ The setup uses:
 - A REST-based LLM inference endpoint
 - Manual and automated evaluation metrics
 
+
 ---
+
+## Demo
+
+
+
+https://github.com/user-attachments/assets/e5a023e4-926b-464b-82fc-65d25b70a69e
+
+
+
 
 ## What Has Been Implemented
 
@@ -161,3 +171,6 @@ lsof -i :5000
 
 # Kill process if port is busy
 kill -9 $(lsof -t -i:5000)
+
+
+
